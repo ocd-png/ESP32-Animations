@@ -1,0 +1,44 @@
+{
+    "name": "button2",
+    "width": 240,
+    "height": 240,
+    "format": "RGB565_RLE1",
+    "frames": [
+        {
+            "file": "frame_0000.bin",
+            "delay_ms": 100,
+            "size_bytes": 53354
+        },
+        {
+            "file": "frame_0001.bin",
+            "delay_ms": 100,
+            "size_bytes": 53070
+        },
+        {
+            "file": "frame_0002.bin",
+            "delay_ms": 100,
+            "size_bytes": 53158
+        },
+        {
+            "file": "frame_0003.bin",
+            "delay_ms": 100,
+            "size_bytes": 50522
+        },
+        {
+            "file": "frame_0004.bin",
+            "delay_ms": 100,
+            "size_bytes": 47758
+        },
+        {
+            "file": "frame_0005.bin",
+            "delay_ms": 100,
+            "size_bytes": 47718
+        },
+        {
+            "file": "frame_0006.bin",
+            "delay_ms": 100,
+            "size_bytes": 48958
+        }
+    ],
+    "loop": 0
+}

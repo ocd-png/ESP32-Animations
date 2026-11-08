@@ -1,0 +1,89 @@
+{
+    "name": "touch",
+    "width": 240,
+    "height": 240,
+    "format": "RGB565_RLE1",
+    "frames": [
+        {
+            "file": "frame_0000.bin",
+            "delay_ms": 100,
+            "size_bytes": 1450
+        },
+        {
+            "file": "frame_0001.bin",
+            "delay_ms": 100,
+            "size_bytes": 14186
+        },
+        {
+            "file": "frame_0002.bin",
+            "delay_ms": 100,
+            "size_bytes": 14182
+        },
+        {
+            "file": "frame_0003.bin",
+            "delay_ms": 100,
+            "size_bytes": 42522
+        },
+        {
+            "file": "frame_0004.bin",
+            "delay_ms": 100,
+            "size_bytes": 101574
+        },
+        {
+            "file": "frame_0005.bin",
+            "delay_ms": 100,
+            "size_bytes": 118710
+        },
+        {
+            "file": "frame_0006.bin",
+            "delay_ms": 100,
+            "size_bytes": 123810
+        },
+        {
+            "file": "frame_0007.bin",
+            "delay_ms": 100,
+            "size_bytes": 120062
+        },
+        {
+            "file": "frame_0008.bin",
+            "delay_ms": 100,
+            "size_bytes": 124598
+        },
+        {
+            "file": "frame_0009.bin",
+            "delay_ms": 100,
+            "size_bytes": 119118
+        },
+        {
+            "file": "frame_0010.bin",
+            "delay_ms": 100,
+            "size_bytes": 124694
+        },
+        {
+            "file": "frame_0011.bin",
+            "delay_ms": 100,
+            "size_bytes": 120574
+        },
+        {
+            "file": "frame_0012.bin",
+            "delay_ms": 100,
+            "size_bytes": 102066
+        },
+        {
+            "file": "frame_0013.bin",
+            "delay_ms": 100,
+            "size_bytes": 42886
+        },
+        {
+            "file": "frame_0014.bin",
+            "delay_ms": 100,
+            "size_bytes": 14762
+        },
+        {
+            "file": "frame_0015.bin",
+            "delay_ms": 100,
+            "size_bytes": 14750
+        }
+    ],
+    "loop": 0
+}

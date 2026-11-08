@@ -1,0 +1,39 @@
+{
+    "name": "idle",
+    "width": 240,
+    "height": 240,
+    "format": "RGB565_RLE1",
+    "frames": [
+        {
+            "file": "frame_0000.bin",
+            "delay_ms": 100,
+            "size_bytes": 57110
+        },
+        {
+            "file": "frame_0001.bin",
+            "delay_ms": 100,
+            "size_bytes": 56818
+        },
+        {
+            "file": "frame_0002.bin",
+            "delay_ms": 100,
+            "size_bytes": 54410
+        },
+        {
+            "file": "frame_0003.bin",
+            "delay_ms": 100,
+            "size_bytes": 54410
+        },
+        {
+            "file": "frame_0004.bin",
+            "delay_ms": 100,
+            "size_bytes": 58214
+        },
+        {
+            "file": "frame_0005.bin",
+            "delay_ms": 100,
+            "size_bytes": 55918
+        }
+    ],
+    "loop": 0
+}
